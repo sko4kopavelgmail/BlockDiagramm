@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BlockDiagramm:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BlockDiagramm_jar</output-path>
+    <root id="archive" name="BlockDiagramm.jar">
+      <element id="module-output" name="BlockDiagramm" />
+    </root>
+  </artifact>
+</component>
